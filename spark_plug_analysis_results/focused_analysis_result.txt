@@ -1,0 +1,3 @@
+The spark plug appears to be in good condition. No major visible defects are present. 
+
+**PASS** 
