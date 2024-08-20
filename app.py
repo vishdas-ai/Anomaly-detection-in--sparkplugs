@@ -134,7 +134,7 @@ def main(uploaded_image_path: str):
 
 if __name__ == "__main__":
     # Replace this with the actual path of the uploaded image
-    uploaded_image_path = "gs://ngk-ai/NGK SILKFR8A6 Laser Iridium Spark Plug_Image2.jpeg"
+    uploaded_image_path = "gs://ngk-ai/NGK-Image2.jpg"
     main(uploaded_image_path)
 
 # if __name__ == "__main__":
